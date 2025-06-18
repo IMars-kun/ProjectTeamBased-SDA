@@ -214,8 +214,12 @@ Berikut adalah contoh tampilan program saat dijalankan melalui terminal:
 
 ### 🧑‍💼Login Sebagai Pasien
 ![Tampilan Pasien](Image/Patient%20Menu.png)
+![Daftar Pasien](Image/Daftar_Pasien.png)
+![Medical Record](Image/Medicalrecord.png)
+![Schedule Appointment](Image/Schedule.png)
 ### 👩‍⚕Login Sebagai Dokter
 ![Tampilan Dokter](Image/Doctor%20Menu.png)
+![Daftar Dokter](Image/Daftar_dokter.png)
 
 ---
 
@@ -223,7 +227,7 @@ Berikut adalah contoh tampilan program saat dijalankan melalui terminal:
 
 1. <a href="https://github.com/aprliwln" target="_blank">Aprillia Wulandari</a> (L0124040) - BST.java, QUEUEAppointment.java, MAP.java
 2. <a href="https://github.com/IMarsKun" target="_blank">Berly Marcellino Suprapto</a> (L0124045) - LINKEDLIST Patient, LINKEDLIST Doctor, Medicalrecord.java, Patient.java, Doctor.java, Appointment.java
-3. <a href="https://github.com/ShaqiFiarahman" target="_blank">Fadel Shaqi Fiarahman</a> (L0124050) - STACK.java
+3. <a href="https://github.com/ShaqiFiarahman" target="_blank">Fadel Shaqi Fiarahman</a> (L0124050) - STACK.java, Readme.MD
 4. <a href="https://github.com/DzakiRizal" target="_blank">Dzaki Rizal kurniawan</a> (L0124096) - DEBUGGER, Main.java
 
 ---
