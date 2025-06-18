@@ -216,14 +216,15 @@ Berikut adalah contoh tampilan program saat dijalankan melalui terminal:
 
 ### 👩‍⚕Login Sebagai Dokter
 
+
 ---
 
 ## 👨‍💻 Kontribusi
 
-1. <a href="https://github.com/aprliwln" target="_blank">Aprillia Wulandari</a> (L0124040) - BST
-2. <a href="https://github.com/" target="_blank">Berly Marcellino Suprapto</a> (L0124045) -
-3. <a href="https://github.com/ShaqiFiarahman" target="_blank">Fadel Shaqi Fiarahman</a> (L0124050) -
-4. <a href="https://github.com/" target="_blank">Dzaki Rizal kurniawan</a> (L0124096) -
+1. <a href="https://github.com/aprliwln" target="_blank">Aprillia Wulandari</a> (L0124040) - BST, QUEUE, MAP
+2. <a href="https://github.com/IMarsKun" target="_blank">Berly Marcellino Suprapto</a> (L0124045) - LINKEDLIST
+3. <a href="https://github.com/ShaqiFiarahman" target="_blank">Fadel Shaqi Fiarahman</a> (L0124050) - STACK
+4. <a href="https://github.com/DzakiRizal" target="_blank">Dzaki Rizal kurniawan</a> (L0124096) - DEBUGGER
 
 ---
 
