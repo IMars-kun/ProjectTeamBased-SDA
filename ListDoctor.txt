@@ -1,0 +1,5 @@
+true | D001 | dr. Krueger | Umum | 2025-06-18 08:00 | 
+false| D002 | dr. Griesha | Anak |                  |                 
+false| D003 | dr. Galliard | Bedah |                |                 
+true | D004 | dr. Kurumi  | Gigi | 2025-06-18 09:30 | 
+false | D010 | Gol D. Roger | Anestesi | 2025-06-18 17:07 | 2025-06-18 17:08

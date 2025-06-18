@@ -1,0 +1,8 @@
+PSN001 | Sasha | 18 | Belgia | 0937283
+PSN002 | Eren Yeager | 16 | Germany | 09382933
+PSN003 | Mikasa Ackerman | 16 | Germany | 03982342
+PSN004 | Armin | 16 | Germany | 03137971
+PSN005 | Monkey D Luffy | 16 | One Piece | 0982421738
+PSN006 | Ka Zaigetsu | 19 | Istana Timur | 038329289
+PSN010 | Dzaki | 18 | Surakarta | 08123456789
+PSN011 | Aprilia | 19 | Jepara | 08123456789
