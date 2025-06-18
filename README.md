@@ -213,12 +213,12 @@ java Main.java
 Berikut adalah contoh tampilan program saat dijalankan melalui terminal:
 
 ### 🧑‍💼Login Sebagai Pasien
-![Tampilan Pasien](Image/Patient%20Menu.png)
+![Tampilan Pasien](Image/Patient_Menu.png)
 ![Daftar Pasien](Image/Daftar_Pasien.png)
 ![Medical Record](Image/Medicalrecord.png)
 ![Schedule Appointment](Image/Schedule_Doctor.png)
 ### 👩‍⚕Login Sebagai Dokter
-![Tampilan Dokter](Image/Doctor%20Menu.png)
+![Tampilan Dokter](Image/Doctor_Menu.png)
 ![Daftar Dokter](Image/Daftar_dokter.png)
 
 ---
