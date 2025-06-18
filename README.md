@@ -215,7 +215,7 @@ Berikut adalah contoh tampilan program saat dijalankan melalui terminal:
 ### 🧑‍💼Login Sebagai Pasien
 
 ### 👩‍⚕Login Sebagai Dokter
-![Tampilan Dokter]("Image/Doctor Menu.png")
+![Tampilan Dokter](Image/Doctor%20Menu.png)
 
 ---
 
