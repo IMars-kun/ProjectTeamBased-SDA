@@ -214,12 +214,12 @@ Berikut adalah contoh tampilan program saat dijalankan melalui terminal:
 
 ### 🧑‍💼Login Sebagai Pasien
 ![Tampilan Pasien](Image/Patient%20Menu.png)
-![Daftar Pasien](Image/Daftar_Pasien.png)
-![Medical Record](Image/Medicalrecord.png)
-![Schedule Appointment](Image/Schedule.png)
+[Daftar Pasien](Image/Daftar_Pasien.png)
+[Medical Record](Image/Medicalrecord.png)
+[Schedule Appointment](Image/Schedule.png)
 ### 👩‍⚕Login Sebagai Dokter
 ![Tampilan Dokter](Image/Doctor%20Menu.png)
-![Daftar Dokter](Image/Daftar_dokter.png)
+[Daftar Dokter](Image/Daftar_dokter.png)
 
 ---
 
